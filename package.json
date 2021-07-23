@@ -11,5 +11,10 @@
   "devDependencies": {
     "@swc/cli": "^0.1.46",
     "@swc/core": "^1.2.66"
+  },
+  "dependencies": {
+    "assert": "^2.0.0",
+    "debounce-stream": "^2.0.0",
+    "events": "^3.3.0"
   }
 }
